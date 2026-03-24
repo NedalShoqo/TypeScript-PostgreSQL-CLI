@@ -36,5 +36,4 @@ program
     })
 
     console.log("Task complete");
-    
-process.exit(0);
+     
