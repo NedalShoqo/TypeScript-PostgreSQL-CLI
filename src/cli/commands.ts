@@ -35,4 +35,6 @@ program
         updateProduct(Number(id), name, Number(price))
     })
 
+    console.log("Task complete");
     
+process.exit(0);
